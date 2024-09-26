@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Jha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 💬 Ask me about **C,CPP,Java,PythonJavaScript,React**
+- 💬 Ask me about **C,CPP,Java,JavaScript,React**
 
 - 📫 How to reach me **rahulsjha24@gmail.com**
 
