@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rahul Jha</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India.</h3>
+<h3 align="center">Currently Learning Mobile Development.</h3>
 
-- 💬 Ask me about **C,CPP,Java,JavaScript,React**
+- 💬 Ask me about **C,CPP,Java,JavaScript,React,Nextjs,Express**
 
 - 📫 How to reach me **rahulsjha24@gmail.com**
 
