@@ -6,47 +6,29 @@
   />
 </a>
 
-<h1 align="center">
-  <a href="https://www.rahulsjha.in/" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&weight=900&size=30&duration=4000&pause=5000&color=1e90ff&center=true&vCenter=true&repeat=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Rahul+Jha;A+Passionate+Software+Engineer" alt="Typing SVG" />
-  </a>
-</h1>
-
 [![Visits Badge](https://komarev.com/ghpvc/?username=RahulJha93&label=Profile%20views&color=red&style=for-the-badge)](https://www.rahulsjha.in)
 <a href="https://x.com/rahul_jha93" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" alt="Rahul Jha | Twitter" style="margin-left: 10px;" /></a>
 <a href="https://www.linkedin.com/in/rahul-jha-115723212/" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="Rahul Jha | LinkedIn" style="margin-left: 10px;" /></a>
 <a href="https://github.com/RahulJha93" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="Rahul Jha | GitHub" style="margin-left: 10px;" /></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<a href="https://www.rahulsjha.in/" target="_blank"><img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'></a>
-
-<h3>A Passionate Full Stack Engineer From India</h3>
-
-- 🌱 I'm currently Building a privacy-first digital legacy product.
-
-- 👨‍💻 All of my projects are available at [rahulsjha.in](https://www.rahulsjha.in/)
-
-- 📝 I regularly write articles on [rahulsjha.in/blog](https://www.rahulsjha.in/blog)
-
-- 💬 Ask me about **React, Next.js, Express, Java, C++, Python**
-
-- 📫 How to reach me **hello@rahulsjha.in**
-
-- 📄 Know about my experiences [rahulsjha.in/about](https://www.rahulsjha.in/about)
 
 <br/>
 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20"> &ensp; <b>Things I code with</b>
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20"> &ensp; <b>Tech Stack & Tools</b>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,express,nodejs,java,spring,python,cpp,c,tailwind,bootstrap,sass,mongodb,postgresql,mysql,redis,firebase,aws,docker,git,github,graphql,webpack,nginx,oracle,linux&theme=dark"/>
+<a href="https://www.rahulsjha.in/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,express,nodejs,java,spring,python,cpp,c,tailwind,bootstrap,sass,mongodb,postgresql,mysql,redis,firebase,aws,docker,git,github,graphql,webpack,nginx,linux,cloudflare,discord,figma,githubactions,netlify,notion,postman,redux,prisma,stackoverflow,vscode,vercel,vite&theme=dark"/>
+</a>
 </p>
 
 <details>
   <summary>
     <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> &ensp;
     <b>Stats Overview</b>
+    <em>(Actively coding since 2024)</em>
   </summary>
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -68,6 +50,12 @@
       </a>
     </span>
   </div>
+  
+  <br/>
+  
+  <a href="https://www.rahulsjha.in">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=RahulJha93&bg_color=151515&color=9e9e9e&line=00ff00&point=00ff00&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" alt="contribution graph" />
+  </a>
 </details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
