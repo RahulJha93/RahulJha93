@@ -7,8 +7,8 @@
 </a>
 
 [![Visits Badge](https://komarev.com/ghpvc/?username=RahulJha93&label=Profile%20views&color=red&style=for-the-badge)](https://www.rahulsjha.in)
-<a href="https://x.com/rahul_jha93" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" alt="Rahul Jha | Twitter" style="margin-left: 10px;" /></a>
-<a href="https://www.linkedin.com/in/rahul-jha-115723212/" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="Rahul Jha | LinkedIn" style="margin-left: 10px;" /></a>
+<a href="https://x.com/RahulJha0793" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" alt="Rahul Jha | Twitter" style="margin-left: 10px;" /></a>
+<a href="https://www.linkedin.com/in/rahulsjha24/" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="Rahul Jha | LinkedIn" style="margin-left: 10px;" /></a>
 <a href="https://github.com/RahulJha93" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="Rahul Jha | GitHub" style="margin-left: 10px;" /></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
