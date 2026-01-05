@@ -54,7 +54,7 @@
   <br/>
   
   <a href="https://www.rahulsjha.in">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=RahulJha93&bg_color=151515&color=9e9e9e&line=00ff00&point=00ff00&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" alt="contribution graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahuljha93&bg_color=151515&color=9e9e9e&line=00ff00&point=00ff00&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" alt="contribution graph" />
   </a>
 </details>
 
